@@ -9,3 +9,4 @@
 
 - LMNs Compiler Design - https://www.geeksforgeeks.org/last-minute-notes-compiler-design-gq/
 - Puzzles - https://www.geeksforgeeks.org/puzzles/
+- Linux, os, networking -https://linuxjourney.com/
